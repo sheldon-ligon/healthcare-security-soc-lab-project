@@ -32,11 +32,15 @@ The proposed infrastructure is divided into six security zones:
 | Demilitarized Zone (DMZ) | 70 | 10.10.70.0/24 |
 
 
+
 ### Network Boundary Diagram
 
-![Healthcare Network Boundary Architecture](diagrams/healthcare-network-architecture-drawio.png)
+![Healthcare Network Boundary Architecture](healthcare-network-architecture-drawio.png)
 
-[View Full Diagram (PDF)](diagrams/network-boundary.pdf)
+**Diagram Files:**
+
+- [View Full Network Diagram (PDF)](healthcare-network-architecture.drawio.pdf)
+- [View Editable Network Diagram (draw.io)](healthcare-network-architecture.drawio)
 
 ## Security Architecture
 
