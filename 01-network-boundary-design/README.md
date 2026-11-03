@@ -71,24 +71,15 @@ The architecture remains a logical design. Security controls have not yet been i
 - **ISO/IEC 27001:** Information Security Management
 - **HIPAA Security Rule:** Protection of electronic protected health information
 
-## Project Deliverables
 
-- Network boundary diagram (draw.io and PDF)
-- Architecture decisions and design justifications
-- Data flow and access control documentation
-- NIST security control mapping
+## Project Documentation
 
-## Future Development
+| Document | Description |
+|---|---|
+| [Architecture Decisions](architecture-decisions.md) | Security design decisions and justifications |
+| Data Flow Security | Coming next |
+| NIST Control Mapping | Coming next |
 
-This project will expand throughout the course to include:
-
-- HIPAA security and privacy requirements
-- NIST security control analysis
-- Oracle Database 12 STIG hardening
-- Security audit preparation
-- Vulnerability assessment and remediation
-- Telemedicine security considerations
-- SOC monitoring and incident investigation procedures
 
 ## Disclaimer
 
