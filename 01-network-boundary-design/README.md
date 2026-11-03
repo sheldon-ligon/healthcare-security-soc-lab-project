@@ -31,6 +31,13 @@ The proposed infrastructure is divided into six security zones:
 | Security Monitoring | 50 | 10.10.50.0/24 |
 | Demilitarized Zone (DMZ) | 70 | 10.10.70.0/24 |
 
+
+### Network Boundary Diagram
+
+![Healthcare Network Boundary Architecture](diagrams/healthcare-network-architecture-drawio.png)
+
+[View Full Diagram (PDF)](diagrams/network-boundary.pdf)
+
 ## Security Architecture
 
 The proposed security architecture includes:
@@ -82,3 +89,5 @@ This project will expand throughout the course to include:
 ## Disclaimer
 
 This project represents a hypothetical healthcare environment developed for educational and cybersecurity portfolio purposes. All network addresses, security configurations, and infrastructure components are part of a proposed design. No actual patient information is used.
+
+
