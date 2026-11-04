@@ -77,7 +77,8 @@ The architecture remains a logical design. Security controls have not yet been i
 | Document | Description |
 |---|---|
 | [Architecture Decisions](architecture-decisions.md) | Security design decisions and justifications |
-| Data Flow Security | Coming next |
+| [Data Flow Security](data-flow-security.md) | Authorized communication paths, access restrictions, and patient data protection |
+
 | NIST Control Mapping | Coming next |
 
 
