@@ -78,8 +78,9 @@ The architecture remains a logical design. Security controls have not yet been i
 |---|---|
 | [Architecture Decisions](architecture-decisions.md) | Security design decisions and justifications |
 | [Data Flow Security](data-flow-security.md) | Authorized communication paths, access restrictions, and patient data protection |
+| [NIST Control Mapping](nist-control-mapping.md) | NIST SP 800-53 Rev. 4 controls, proposed implementations, and validation methods |
 
-| NIST Control Mapping | Coming next |
+
 
 
 ## Disclaimer
