@@ -1,4 +1,4 @@
-# healthcare-security-soc-lab-project
+# Healthcare Security SOC Lab Project
 Healthcare network security architecture, risk assessment, and SOC monitoring lab
 
 
